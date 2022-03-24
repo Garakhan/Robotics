@@ -1,0 +1,1 @@
+image: ./some.pgmresolution: 0.05origin: [-1.0, -1.0, 0.0]negate: 0occupied_thresh: 0.65free_thresh: 0.196
